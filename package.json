@@ -1,0 +1,47 @@
+{
+  "name": "temp_app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "@tiptap/extension-blockquote": "^2.27.2",
+    "@tiptap/extension-bold": "^2.27.2",
+    "@tiptap/extension-bubble-menu": "^2.27.2",
+    "@tiptap/extension-bullet-list": "^2.27.2",
+    "@tiptap/extension-code": "^2.27.2",
+    "@tiptap/extension-hard-break": "^2.27.2",
+    "@tiptap/extension-heading": "^2.27.2",
+    "@tiptap/extension-horizontal-rule": "^2.27.2",
+    "@tiptap/extension-italic": "^2.27.2",
+    "@tiptap/extension-list-item": "^2.27.2",
+    "@tiptap/extension-ordered-list": "^2.27.2",
+    "@tiptap/extension-placeholder": "^2.27.2",
+    "@tiptap/extension-strike": "^2.27.2",
+    "@tiptap/pm": "^2.27.2",
+    "@tiptap/react": "^2.27.2",
+    "@tiptap/starter-kit": "^2.27.2",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.562.0",
+    "next": "16.1.1",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "tailwind-merge": "^3.4.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.19",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "autoprefixer": "^10.4.19",
+    "eslint": "^9",
+    "eslint-config-next": "16.1.1",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5"
+  }
+}
